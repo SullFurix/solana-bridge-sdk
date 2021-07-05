@@ -1,0 +1,1 @@
+{"version":3,"file":"config.js","sourceRoot":"","sources":["../../../src/bridge/config.ts"],"names":[],"mappings":";;;;;;;;;;;;;;;;;;;;;;AAAA,qBAAqB;AACrB,8DAA8D;AAC9D,4DAA8C;AAEjC,QAAA,YAAY,GAAG,YAAY,CAAC,MAAM,CAAC;IAC9C,YAAY,CAAC,GAAG,CAAC,kBAAkB,CAAC;IACpC,YAAY,CAAC,EAAE,CAAC,2BAA2B,CAAC;IAC5C,kBAAS,CAAC,cAAc,CAAC;IACzB,YAAY,CAAC,EAAE,CAAC,eAAe,CAAC;CACjC,CAAC,CAAC"}

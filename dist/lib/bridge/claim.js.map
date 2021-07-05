@@ -1,0 +1,1 @@
+{"version":3,"file":"claim.js","sourceRoot":"","sources":["../../../src/bridge/claim.ts"],"names":[],"mappings":";;;;;;;;;;;;;;;;;;;;;;AAEA,4DAA8C;AAEjC,QAAA,UAAU,GAAG,YAAY,CAAC,MAAM,CAAC;IAC5C,YAAY,CAAC,IAAI,CAAC,EAAE,EAAE,MAAM,CAAC;IAC7B,YAAY,CAAC,GAAG,CAAC,SAAS,CAAC;IAC3B,YAAY,CAAC,EAAE,CAAC,aAAa,CAAC;IAC9B,yCAAyC;CAC1C,CAAC,CAAC;AAEH;;;;;;;;;EASE"}

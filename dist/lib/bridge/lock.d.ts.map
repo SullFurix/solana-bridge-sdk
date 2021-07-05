@@ -1,0 +1,1 @@
+{"version":3,"file":"lock.d.ts","sourceRoot":"","sources":["../../../src/bridge/lock.ts"],"names":[],"mappings":";AACA,OAAO,EACL,SAAS,EAKT,sBAAsB,EACvB,MAAM,iBAAiB,CAAC;AACzB,OAAO,EAAE,MAAM,OAAO,CAAC;AAGvB,OAAO,EAAE,SAAS,EAAE,MAAM,QAAQ,CAAC;AAGnC,eAAO,MAAM,0BAA0B,iBACvB,SAAS,SAChB,SAAS,gBACF,SAAS,QACjB,SAAS,UACP,EAAE,eACG,MAAM,iBACJ,MAAM,SACd,SAAS,SACT,MAAM;;;EAkGd,CAAC"}

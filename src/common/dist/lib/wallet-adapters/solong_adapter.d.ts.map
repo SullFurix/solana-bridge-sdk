@@ -1,0 +1,1 @@
+{"version":3,"file":"solong_adapter.d.ts","sourceRoot":"","sources":["../../../src/wallet-adapters/solong_adapter.tsx"],"names":[],"mappings":"AAAA,OAAO,YAAY,MAAM,eAAe,CAAC;AAIzC,qBAAa,aAAc,SAAQ,YAAY;IAC7C,UAAU,EAAE,GAAG,CAAC;IAChB,UAAU,EAAE,OAAO,CAAC;gBACR,WAAW,EAAE,MAAM,EAAE,OAAO,EAAE,MAAM;IAOhD,IAAI,SAAS,QAEZ;IAEK,eAAe,CAAC,WAAW,EAAE,GAAG;IAItC,OAAO;IA4BP,UAAU;CAMX"}
