@@ -1,6 +1,6 @@
-import { sleep } from './../../common/dist/lib/utils/utils';
-import { programIds } from './../../common/dist/lib/utils/ids';
-import { sendTransactionWithRetry } from './../../common/dist/lib/contexts/connection';
+import { sleep } from './../../common/utils/utils';
+import { programIds } from './../../common/utils/ids';
+import { sendTransactionWithRetry } from './../../common/contexts/connection';
 import { WalletAdapter } from '@solana/wallet-base';
 import { ethers } from 'ethers';
 import { WormholeFactory } from '../../contracts/WormholeFactory';

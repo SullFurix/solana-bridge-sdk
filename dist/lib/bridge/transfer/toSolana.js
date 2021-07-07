@@ -1,10 +1,10 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.toSolana = void 0;
-const account_1 = require("./../../common/dist/lib/actions/account");
-const connection_1 = require("./../../common/dist/lib/contexts/connection");
-const accounts_1 = require("./../../common/dist/lib/contexts/accounts");
-const ids_1 = require("./../../common/dist/lib/utils/ids");
+const account_1 = require("./../../common/actions/account");
+const connection_1 = require("./../../common/contexts/connection");
+const accounts_1 = require("./../../common/contexts/accounts");
+const ids_1 = require("./../../common/utils/ids");
 const ethers_1 = require("ethers");
 const ERC20Factory_1 = require("../../contracts/ERC20Factory");
 const WormholeFactory_1 = require("../../contracts/WormholeFactory");

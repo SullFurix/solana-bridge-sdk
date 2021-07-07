@@ -1,4 +1,4 @@
-import { publicKey } from './../common/dist/lib/utils/layout';
+import { publicKey } from './../common/utils/layout';
 import * as BufferLayout from 'buffer-layout';
 
 // 1184 TransferOutProposal

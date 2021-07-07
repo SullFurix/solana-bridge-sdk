@@ -1,0 +1,1 @@
+{"version":3,"file":"tokenSwap.d.ts","sourceRoot":"","sources":["../../../../src/common/models/tokenSwap.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,YAAY,MAAM,eAAe,CAAC;AAG9C,OAAO,EAAE,SAAS,EAAE,MAAM,wBAAwB,CAAC;AAgBnD,eAAO,MAAM,uBAAuB,KAQlC,CAAC;AAEH,eAAO,MAAM,iBAAiB,EAAE,OAAO,YAAY,CAAC,SAoBnD,CAAC;AAoBF,eAAO,MAAM,eAAe,EAAE,OAAO,YAAY,CAAC,SAcjD,CAAC"}

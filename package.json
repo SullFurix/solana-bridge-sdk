@@ -1,6 +1,6 @@
 {
   "name": "solana-bridge-sdk",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Bridge common sdk utilities",
   "main": "dist/lib/index.js",
   "types": "dist/lib/index.d.ts",
@@ -19,6 +19,7 @@
     "@project-serum/serum": "^0.13.11",
     "@project-serum/sol-wallet-adapter": "^0.1.4",
     "@solana/spl-token": "0.0.13",
+    "@solana/spl-token-registry": "^0.2.0",
     "@solana/spl-token-swap": "0.1.0",
     "@solana/wallet-base": "0.0.1",
     "@solana/wallet-ledger": "0.0.1",
@@ -26,6 +27,8 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
+    "@toruslabs/openlogin": "^0.9.0",
+    "@toruslabs/openlogin-ed25519": "^0.9.0",
     "@types/chart.js": "^2.9.29",
     "@types/echarts": "^4.9.0",
     "@types/react-router-dom": "^5.1.6",
@@ -59,7 +62,12 @@
     "ethers": "typechain --target ethers-v4 --outDir src/contracts 'contracts/*.json'"
   },
   "files": [
-    "dist"
+    "dist",
+    "src",
+    "contracts",
+    "LICENSE.md",
+    "package.json",
+    "tsconfig.json"
   ],
   "browserslist": {
     "production": [

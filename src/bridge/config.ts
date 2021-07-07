@@ -1,5 +1,5 @@
 // 44 - bridge config
-import { publicKey } from './../common/dist/lib/utils/layout';
+import { publicKey } from './../common/utils/layout';
 import * as BufferLayout from 'buffer-layout';
 
 export const BridgeLayout = BufferLayout.struct([

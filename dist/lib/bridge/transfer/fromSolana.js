@@ -4,9 +4,9 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
 };
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.fromSolana = void 0;
-const utils_1 = require("./../../common/dist/lib/utils/utils");
-const ids_1 = require("./../../common/dist/lib/utils/ids");
-const connection_1 = require("./../../common/dist/lib/contexts/connection");
+const utils_1 = require("./../../common/utils/utils");
+const ids_1 = require("./../../common/utils/ids");
+const connection_1 = require("./../../common/contexts/connection");
 const WormholeFactory_1 = require("../../contracts/WormholeFactory");
 const helpers_1 = require("./../helpers");
 const web3_js_1 = require("@solana/web3.js");

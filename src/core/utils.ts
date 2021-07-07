@@ -1,6 +1,6 @@
 import { PublicKey } from '@solana/web3.js';
 import { keccak256 } from 'ethers/utils';
-import { programIds } from './../common/dist/lib/utils/ids';
+import { programIds } from './../common/utils/ids';
 
 export const WRAPPED_MASTER = '9A5e27995309a03f8B583feBdE7eF289FcCdC6Ae';
 
