@@ -20,7 +20,7 @@ var __importStar = (this && this.__importStar) || function (mod) {
 };
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.TransferOutProposalLayout = void 0;
-const layout_1 = require("./../common/utils/layout");
+const layout_1 = require("./common/utils/layout");
 const BufferLayout = __importStar(require("buffer-layout"));
 // 1184 TransferOutProposal
 exports.TransferOutProposalLayout = BufferLayout.struct([

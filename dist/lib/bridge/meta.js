@@ -20,7 +20,7 @@ var __importStar = (this && this.__importStar) || function (mod) {
 };
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.createWrappedAssetInstruction = exports.createWrappedLayout = exports.WrappedMetaLayout = void 0;
-const ids_1 = require("./../common/utils/ids");
+const ids_1 = require("./common/utils/ids");
 const web3_js_1 = require("@solana/web3.js");
 const BufferLayout = __importStar(require("buffer-layout"));
 const helpers_1 = require("./helpers");

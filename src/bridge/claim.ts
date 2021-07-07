@@ -1,5 +1,5 @@
 // 40 - ExecutedVAA (claim)
-import { publicKey } from './../common/utils/layout';
+import { publicKey } from './common/utils/layout';
 import * as BufferLayout from 'buffer-layout';
 
 export const ClaimedVAA = BufferLayout.struct([

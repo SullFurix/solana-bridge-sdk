@@ -1,4 +1,4 @@
-import { programIds } from './../common/utils/ids';
+import { programIds } from './common/utils/ids';
 import {
   PublicKey,
   SystemProgram,

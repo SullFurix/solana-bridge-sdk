@@ -21,7 +21,7 @@ var __importStar = (this && this.__importStar) || function (mod) {
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.BridgeLayout = void 0;
 // 44 - bridge config
-const layout_1 = require("./../common/utils/layout");
+const layout_1 = require("./common/utils/layout");
 const BufferLayout = __importStar(require("buffer-layout"));
 exports.BridgeLayout = BufferLayout.struct([
     BufferLayout.u32('guardianSetIndex'),
